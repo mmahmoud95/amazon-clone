@@ -73,35 +73,26 @@ Follow these instructions to get a copy of the project up and running on your lo
     cd amazon-clone
     ```
 3. Install dependencies:
-
     ```bash
     to install client dependency
     cd Amazon-ReactJS
     npm install
     # or
     yarn install
-    ```
 
     to install server dependency
     cd Amazon-Server-API-NodeJS
     npm install
-
     # or
-
     yarn install
-
     ```
-
-    ```
-
 4. Start the development server:
     ```bash
     for client cd Amazon-ReactJS
     npm run dev
-    ```
     for server cd Amazon-Server-API-NodeJS
     npm start
-
+    ```
 ### Usage
 
 -   Access the website client `http://localhost:5173`
