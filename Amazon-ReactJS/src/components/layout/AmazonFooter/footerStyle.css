@@ -1,0 +1,18 @@
+.backToTop :hover{
+    background-color: rgb(166, 175, 182);
+    cursor:pointer;
+}
+#footerSection2 li:hover{
+font-weight: lighter;
+text-decoration: underline;
+color: rgb(249, 249, 255);
+}
+#copyRightsSection li:hover{
+    font-weight: lighter;
+    text-decoration: underline;
+    color: rgb(249, 249, 255);  
+}
+#adLinks :any-link:hover{
+    font-weight: bolder;
+    color: rgb(249, 249, 255);
+}

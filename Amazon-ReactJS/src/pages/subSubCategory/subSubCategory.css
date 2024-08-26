@@ -1,0 +1,10 @@
+.price-rating {
+	margin-right: 6px !important;
+}
+[dir="rtl"] .price-rating {
+	margin-left: 6px;
+	margin-right: 0;
+}
+[dir="rtl"] .filter{
+  border-left: 1px solid #cccccc;
+}

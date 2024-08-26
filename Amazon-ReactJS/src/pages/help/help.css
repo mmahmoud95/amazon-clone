@@ -1,0 +1,152 @@
+#sec1 {
+    background-color: #007185;
+}
+
+.sec11 a {
+    font-size: medium;
+    text-decoration: none;
+    color: #f2f2f2;
+}
+
+.sec11 a:hover {
+    text-decoration: underline;
+    color: #f2f2f2;
+}
+
+.div {
+    border-left: 1px solid #f2f2f2;
+}
+
+.sec11 {
+    -moz-box-shadow: 0 4px 6px -6px #1e3360;
+    box-shadow: 0 4px 6px -6px #1e3360;
+}
+
+.info {
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid gainsboro;
+    border-left: 20px #1495a9 solid;
+}
+
+.info i {
+    background-color: #f2f2f2;
+    color: #007185;
+}
+
+.ques {
+    color: #ffffff;
+}
+
+.first {
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 20px;
+    padding: 20px;
+    color: #000;
+}
+.first:hover {
+    background-color: #b5b4b4;
+}
+#sec1 img {
+    width: 20%;
+}
+
+/* ////////////////////sec3/////////////////// */
+#sec3 {
+    background-color: #f7fafa;
+}
+
+#sec3 label {
+    font-size: 20px;
+}
+
+#sec3 ul {
+    list-style-type: none;
+
+    background-color: #f7fafa;
+}
+
+#sec3 li {
+    border: 1px solid none;
+    background-color: #f7fafa;
+}
+#sec3 li:hover {
+    border: 1px solid none;
+    border-radius: 5px;
+    background-color: #d7d6d6;
+    text-align: left;
+}
+#sec3 li > button {
+    border: none;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: 16px;
+    padding: 5px;
+    background-color: inherit;
+}
+
+#sec3 li:active {
+    border: 1px solid none;
+    border-radius: 5px;
+    background-color: #007185;
+}
+
+#sec3 p {
+    font-size: 12px;
+    color: rgb(169, 169, 169);
+    margin-left: 20px;
+}
+
+#sec3 h3 {
+    font-size: 14px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+#last,
+#last2,
+#last3 {
+    border: 1px solid rgb(186, 186, 186);
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    display: none;
+}
+
+#last:hover,
+#last2:hover,
+#last3:hover {
+    background-color: #f7fafa;
+}
+.first2 {
+    border-radius: 5px;
+    background-color: #ffffff;
+    /* padding: 20px; */
+    border: #b5b4b4 1px solid;
+    padding: 10px;
+    /* margin-top: 10px; */
+    color: #000;
+}
+.first2:hover {
+    background-color: #dddddd;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    /* html{
+		font-size: 16px;
+	} */
+    #sec3 li {
+        border: none;
+    }
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+}

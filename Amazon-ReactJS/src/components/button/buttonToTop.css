@@ -1,0 +1,26 @@
+.show-button {
+    visibility: hidden;
+}
+.backToTopContainer {
+    border-radius: 8px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+}
+[dir="rtl"] .backToTopContainer {
+    left: 20px;
+    right: auto;
+}
+.back-Top {
+    cursor: pointer;
+    background-color: #ff9900;
+    color: #000;
+    padding: 6px 16px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.back-Top:hover {
+    background-color: #ff9036; /* Adjust hover color as needed */
+}

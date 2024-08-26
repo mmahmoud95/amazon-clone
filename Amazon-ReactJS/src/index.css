@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.slider2-PrevIcon,
+    .slider2-NextIcon {
+      height: 100px;
+      width: 40px;
+      outline: black;
+      border-radius: 5%;
+      border: 1.5px solid black;
+      background-image: none;
+      background-color: white;
+
+    }
+
+    .slider2-NextIcon:after {
+      content: '>';
+      font-size: 50px;
+      color: black;
+    }
+
+    .slider2-PrevIcon:after {
+      content: '<';
+      font-size: 55px;
+      color: black;
+    }
+
+    .btn-slider{
+        width: 40px;
+    }

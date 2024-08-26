@@ -1,0 +1,21 @@
+[dir="rtl"] .item {
+    margin-right: 24px;
+}
+.account-login {
+    background-color: #ffd814;
+    color: #000;
+    padding: 10px 48px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 14px;
+    margin-bottom: 4px;
+    text-decoration: none;
+    display: inline-block;
+}
+.account-login:hover {
+    text-decoration: none;
+    background-color: #ebb609;
+}
+body {
+    background-color: #fff !important;
+}

@@ -1,0 +1,19 @@
+.carousel .carousel-status {
+    display: none;
+}
+.icon {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 0px;
+}
+.text-color {
+    color: #505050;
+    border-bottom: 1px solid #eee;
+}
+.para1 {
+    margin-left: 8px;
+}
+[dir="rtl"] .para1 {
+    margin-left: 0;
+    margin-right: 8px;
+}
