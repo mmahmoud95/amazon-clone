@@ -2,6 +2,11 @@
 
 This project is a multi-page e-commerce website designed to provide a seamless shopping experience for users. The platform is built with various features to enhance usability and accessibility for a diverse audience.
 
+## Live Demo
+
+Check out the live demo of the project here:
+[Live Demo](https://amazonnew.netlify.app/)
+
 ## Features
 
 ### 1. Home Page 🏠
