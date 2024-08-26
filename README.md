@@ -7,6 +7,17 @@ This project is a multi-page e-commerce website designed to provide a seamless s
 Check out the live demo of the project here:
 [Live Demo](https://amazonnew.netlify.app/)
 
+## Project Information
+
+This project is part of the [Ecommerce Website Information Technology Institute (ITI) Graduation Project](https://iti.gov.eg/).
+
+## Created By
+
+- [Mustafa Mahmoud](https://github.com/mmahmoud95)
+- [Hamza Mohamed](https://github.com/Hamza-mohamed)
+- [Martina Makram](https://github.com/MartinaMakram1)
+- [Randa Hammam](https://github.com/Randa-10)
+
 ## Features
 
 ### 1. Home Page 🏠
